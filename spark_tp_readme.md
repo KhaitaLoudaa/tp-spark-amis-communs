@@ -31,7 +31,7 @@ rm -r output_tp
 2\. Lancez le script avec PySpark :
 
 ```bash
-pyspark tp_spark.py
+/opt/spark/bin/spark-submit tp_spark.py
 ```
 
 3\. Les résultats sont générés dans :
